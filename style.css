@@ -94,4 +94,14 @@ footer {
 
 .languages {
     columns: 3;
+    list-style: none;
+    padding: 0;
+}
+
+.languages ul {
+    margin-bottom: 1em;
+}
+
+.languages li {
+    margin-bottom: 0.5em;
 }
