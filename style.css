@@ -91,3 +91,7 @@ footer {
 .button-link:hover {
     background-color: #ff8c00;
 }
+
+.languages {
+    columns: 3;
+}
